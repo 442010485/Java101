@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class even_Switch
-        {
+public class even_Switch.java{
 public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter number 1");
