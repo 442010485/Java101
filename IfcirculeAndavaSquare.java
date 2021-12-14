@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class IfcirculeAndavaSquare{
+public class IfcirculeAndavaSquare.java {
     public static void main(String[] args) {
      Scanner scan = new Scanner(System.in);
      System.out.println("Enter num 1 or 2");
