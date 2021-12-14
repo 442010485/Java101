@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class RockPaperSe{
+public class RockPaperSe.java {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String computerPlays = "rps";
