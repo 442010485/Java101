@@ -1,4 +1,4 @@
-public class weekendAndweekdays
+public class weekendAndweekdays.java
 {
 	public static void main(String[] args) {
 	 int day =4;
