@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PositiveAndAegative.java {
+public class PositiveAndNegative.java {
     public static void main(String[] args) {
         Scanner sacn = new Scanner(System.in);
         float num;
